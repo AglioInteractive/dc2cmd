@@ -59,6 +59,8 @@ If the StreamElements command gets deleted and recreated, the cached command id 
 
 ## ⚠️ Disclaimer
 
+This project is not affiliated with, endorsed by, or sponsored by Twitch, StreamElements, Discord, or any other third-party service it integrates with. All trademarks belong to their respective owners.
+
 This software is provided as-is. The author is not responsible for any misuse of it or for any consequences that come from running it.
 
 You are responsible for keeping your own credentials secure. That means your Discord and StreamElements tokens, your config files, and your `.cache` directory - don't commit them, share them, or leave them readable by others.
