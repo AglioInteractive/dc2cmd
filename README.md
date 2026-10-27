@@ -67,4 +67,4 @@ Please don't abuse third-party integrations. The tool talks to the Discord API, 
 
 ## ⚖️ License
 
-This software is released under the terms of [WTFPL Version 2](LICENSE) license. Copyright 2026 GarlicWare.
+This software is released under the terms of [WTFPL Version 2](LICENSE) license. Copyright 2026 Aglio Interactive.
