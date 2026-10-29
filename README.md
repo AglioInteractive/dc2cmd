@@ -16,7 +16,7 @@ A Python program that copies the latest messages from a Discord channel into a S
 
 ## ⚙️ Configuration
 
-Copy `.env.example` to `.env` (or e.g. `.env.myconfig`) and fill in the values. Every setting is documented in the file. `--config` also accepts a path to a config file in any location.
+Copy `.env.example` to `.env` (or e.g. `.env.myconfig`) and fill in the values. Every setting is [documented in the file](.env.example). `--config` also accepts a path to a config file in any location.
 
 ## 🏃‍♂️‍➡️ Running
 
